@@ -1,0 +1,5 @@
+C:\cs2010\ch04\ConsoleSort\bin\Debug\ConsoleSort.exe
+C:\cs2010\ch04\ConsoleSort\bin\Debug\ConsoleSort.pdb
+C:\cs2010\ch04\ConsoleSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\ConsoleSort\obj\x86\Debug\ConsoleSort.exe
+C:\cs2010\ch04\ConsoleSort\obj\x86\Debug\ConsoleSort.pdb

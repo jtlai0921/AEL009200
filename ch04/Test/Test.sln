@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLMain", "SLMain\SLMain.csproj", "{56F54302-ABB9-4108-9010-DC772EAFA343}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SLMain.Web", "SLMain.Web\", "{358FF26C-3230-44DF-ADD0-FB496CC60D08}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SLMain.Web"
+		Debug.AspNetCompiler.PhysicalPath = "SLMain.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SLMain.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SLMain.Web"
+		Release.AspNetCompiler.PhysicalPath = "SLMain.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SLMain.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4393"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{56F54302-ABB9-4108-9010-DC772EAFA343}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLClass", "SLClass\SLClass.csproj", "{4C2E3136-0896-4128-BCC0-C55D139E45BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F54302-ABB9-4108-9010-DC772EAFA343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F54302-ABB9-4108-9010-DC772EAFA343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F54302-ABB9-4108-9010-DC772EAFA343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F54302-ABB9-4108-9010-DC772EAFA343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358FF26C-3230-44DF-ADD0-FB496CC60D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358FF26C-3230-44DF-ADD0-FB496CC60D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358FF26C-3230-44DF-ADD0-FB496CC60D08}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{358FF26C-3230-44DF-ADD0-FB496CC60D08}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E3136-0896-4128-BCC0-C55D139E45BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2E3136-0896-4128-BCC0-C55D139E45BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E3136-0896-4128-BCC0-C55D139E45BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2E3136-0896-4128-BCC0-C55D139E45BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

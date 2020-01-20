@@ -1,0 +1,9 @@
+C:\cs2010\ch13\KeyDownKeyUpDemo\bin\Debug\KeyDownKeyUpDemo.exe
+C:\cs2010\ch13\KeyDownKeyUpDemo\bin\Debug\KeyDownKeyUpDemo.pdb
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\KeyDownKeyUpDemo.Form1.resources
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\KeyDownKeyUpDemo.Properties.Resources.resources
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\KeyDownKeyUpDemo.exe
+C:\cs2010\ch13\KeyDownKeyUpDemo\obj\x86\Debug\KeyDownKeyUpDemo.pdb

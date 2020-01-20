@@ -1,0 +1,10 @@
+C:\cs2010\ch14\MDIMutilFormEX\bin\Debug\MDIMutilFormEx.exe
+C:\cs2010\ch14\MDIMutilFormEX\bin\Debug\MDIMutilFormEx.pdb
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\MDIMutilFormEx.frmBar.resources
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\MDIMutilFormEx.frmMemory.resources
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\MDIMutilFormEx.Properties.Resources.resources
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\MDIMutilFormEx.exe
+C:\cs2010\ch14\MDIMutilFormEX\obj\x86\Debug\MDIMutilFormEx.pdb

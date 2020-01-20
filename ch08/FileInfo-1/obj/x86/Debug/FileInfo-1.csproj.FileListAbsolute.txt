@@ -1,0 +1,5 @@
+C:\cs2010\ch08\FileInfo-1\bin\Debug\FileInfo-1.exe
+C:\cs2010\ch08\FileInfo-1\bin\Debug\FileInfo-1.pdb
+C:\cs2010\ch08\FileInfo-1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\FileInfo-1\obj\x86\Debug\FileInfo-1.exe
+C:\cs2010\ch08\FileInfo-1\obj\x86\Debug\FileInfo-1.pdb

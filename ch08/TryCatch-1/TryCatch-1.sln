@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch-1", "TryCatch-1.csproj", "{20903F64-62A9-447F-9FCC-EE67D6FB9008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20903F64-62A9-447F-9FCC-EE67D6FB9008}.Debug|x86.ActiveCfg = Debug|x86
+		{20903F64-62A9-447F-9FCC-EE67D6FB9008}.Debug|x86.Build.0 = Debug|x86
+		{20903F64-62A9-447F-9FCC-EE67D6FB9008}.Release|x86.ActiveCfg = Release|x86
+		{20903F64-62A9-447F-9FCC-EE67D6FB9008}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

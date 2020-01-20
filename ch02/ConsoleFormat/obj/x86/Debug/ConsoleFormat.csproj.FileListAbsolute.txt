@@ -1,0 +1,5 @@
+C:\cs2010\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.exe
+C:\cs2010\ch02\ConsoleFormat\bin\Debug\ConsoleFormat.pdb
+C:\cs2010\ch02\ConsoleFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\ConsoleFormat\obj\x86\Debug\ConsoleFormat.exe
+C:\cs2010\ch02\ConsoleFormat\obj\x86\Debug\ConsoleFormat.pdb

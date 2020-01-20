@@ -1,0 +1,5 @@
+C:\cs2010\ch08\TryCatch-3\bin\Debug\TryCatch-3.exe
+C:\cs2010\ch08\TryCatch-3\bin\Debug\TryCatch-3.pdb
+C:\cs2010\ch08\TryCatch-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\TryCatch-3\obj\x86\Debug\TryCatch-3.exe
+C:\cs2010\ch08\TryCatch-3\obj\x86\Debug\TryCatch-3.pdb

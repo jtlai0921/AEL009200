@@ -1,0 +1,12 @@
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\Linq_to_SQL3.Form1.resources
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\Linq_to_SQL3.Properties.Resources.resources
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2008\ch19\Linq_to_SQL3\bin\Debug\ch19DB.mdf
+C:\cs2008\ch19\Linq_to_SQL3\bin\Debug\ch19DB_log.ldf
+C:\cs2008\ch19\Linq_to_SQL3\bin\Debug\Linq_to_SQL3.exe.config
+C:\cs2008\ch19\Linq_to_SQL3\bin\Debug\Linq_to_SQL3.exe
+C:\cs2008\ch19\Linq_to_SQL3\bin\Debug\Linq_to_SQL3.pdb
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\Linq_to_SQL3.exe
+C:\cs2008\ch19\Linq_to_SQL3\obj\x86\Debug\Linq_to_SQL3.pdb

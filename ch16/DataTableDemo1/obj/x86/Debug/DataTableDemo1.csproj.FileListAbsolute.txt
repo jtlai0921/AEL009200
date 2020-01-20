@@ -1,0 +1,9 @@
+C:\cs2010\ch16\DataTableDemo1\bin\Debug\DataTableDemo1.exe
+C:\cs2010\ch16\DataTableDemo1\bin\Debug\DataTableDemo1.pdb
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\DataTableDemo1.Form1.resources
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\DataTableDemo1.Properties.Resources.resources
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\DataTableDemo1.exe
+C:\cs2010\ch16\DataTableDemo1\obj\x86\Debug\DataTableDemo1.pdb

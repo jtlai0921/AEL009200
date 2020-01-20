@@ -1,0 +1,5 @@
+C:\cs2010\ch08\DirectoryInfo-2\bin\Debug\DirectoryInfo-2.exe
+C:\cs2010\ch08\DirectoryInfo-2\bin\Debug\DirectoryInfo-2.pdb
+C:\cs2010\ch08\DirectoryInfo-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\DirectoryInfo-2\obj\x86\Debug\DirectoryInfo-2.exe
+C:\cs2010\ch08\DirectoryInfo-2\obj\x86\Debug\DirectoryInfo-2.pdb

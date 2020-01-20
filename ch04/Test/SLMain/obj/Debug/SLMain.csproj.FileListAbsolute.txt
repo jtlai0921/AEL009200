@@ -1,0 +1,14 @@
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLMain.dll
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLMain.pdb
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\AppManifest.xaml
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLMain.xap
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLMainTestPage.html
+C:\cs2010\ch04\Test\SLMain\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\Test\SLMain\obj\Debug\App.g.cs
+C:\cs2010\ch04\Test\SLMain\obj\Debug\MainPage.g.cs
+C:\cs2010\ch04\Test\SLMain\obj\Debug\SLMain.g.resources
+C:\cs2010\ch04\Test\SLMain\obj\Debug\SLMain.dll
+C:\cs2010\ch04\Test\SLMain\obj\Debug\SLMain.pdb
+C:\cs2010\ch04\Test\SLMain\obj\Debug\XapCacheFile.xml
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLClass.dll
+C:\cs2010\ch04\Test\SLMain\Bin\Debug\SLClass.pdb

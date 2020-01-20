@@ -1,0 +1,9 @@
+C:\cs2010\ch09\Guess\bin\Debug\Guess.exe
+C:\cs2010\ch09\Guess\bin\Debug\Guess.pdb
+C:\cs2010\ch09\Guess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch09\Guess\obj\x86\Debug\Guess.Form1.resources
+C:\cs2010\ch09\Guess\obj\x86\Debug\Guess.Properties.Resources.resources
+C:\cs2010\ch09\Guess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch09\Guess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch09\Guess\obj\x86\Debug\Guess.exe
+C:\cs2010\ch09\Guess\obj\x86\Debug\Guess.pdb

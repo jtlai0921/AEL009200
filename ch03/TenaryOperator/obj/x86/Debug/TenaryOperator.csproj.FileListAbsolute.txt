@@ -1,0 +1,5 @@
+C:\cs2010\ch03\TenaryOperator\bin\Debug\TenaryOperator.exe
+C:\cs2010\ch03\TenaryOperator\bin\Debug\TenaryOperator.pdb
+C:\cs2010\ch03\TenaryOperator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch03\TenaryOperator\obj\x86\Debug\TenaryOperator.exe
+C:\cs2010\ch03\TenaryOperator\obj\x86\Debug\TenaryOperator.pdb

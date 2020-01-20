@@ -1,0 +1,5 @@
+C:\cs2010\ch06\ConstructorDemo-3\bin\Debug\ConstructorDemo-3.exe
+C:\cs2010\ch06\ConstructorDemo-3\bin\Debug\ConstructorDemo-3.pdb
+C:\cs2010\ch06\ConstructorDemo-3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\ConstructorDemo-3\obj\x86\Debug\ConstructorDemo-3.exe
+C:\cs2010\ch06\ConstructorDemo-3\obj\x86\Debug\ConstructorDemo-3.pdb

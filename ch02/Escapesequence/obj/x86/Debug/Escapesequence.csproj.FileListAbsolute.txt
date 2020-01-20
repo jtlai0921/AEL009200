@@ -1,0 +1,5 @@
+C:\cs2010\ch02\Escapesequence\bin\Debug\Escapesequence.exe
+C:\cs2010\ch02\Escapesequence\bin\Debug\Escapesequence.pdb
+C:\cs2010\ch02\Escapesequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\Escapesequence\obj\x86\Debug\Escapesequence.exe
+C:\cs2010\ch02\Escapesequence\obj\x86\Debug\Escapesequence.pdb

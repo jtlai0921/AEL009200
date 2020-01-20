@@ -1,0 +1,5 @@
+C:\cs2010\ch08\ReadWriteFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\ReadWriteFile\bin\Debug\ReadWriteFile.exe
+C:\cs2010\ch08\ReadWriteFile\bin\Debug\ReadWriteFile.pdb
+C:\cs2010\ch08\ReadWriteFile\obj\x86\Debug\ReadWriteFile.exe
+C:\cs2010\ch08\ReadWriteFile\obj\x86\Debug\ReadWriteFile.pdb

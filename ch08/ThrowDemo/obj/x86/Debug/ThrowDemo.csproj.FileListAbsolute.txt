@@ -1,0 +1,5 @@
+C:\cs2010\ch08\ThrowDemo\bin\Debug\ThrowDemo.exe
+C:\cs2010\ch08\ThrowDemo\bin\Debug\ThrowDemo.pdb
+C:\cs2010\ch08\ThrowDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\ThrowDemo\obj\x86\Debug\ThrowDemo.exe
+C:\cs2010\ch08\ThrowDemo\obj\x86\Debug\ThrowDemo.pdb

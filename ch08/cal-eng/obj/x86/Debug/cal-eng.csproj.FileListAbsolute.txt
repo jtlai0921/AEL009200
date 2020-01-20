@@ -1,0 +1,5 @@
+C:\cs2010\ch08\cal-eng\bin\Debug\cal-eng.exe
+C:\cs2010\ch08\cal-eng\bin\Debug\cal-eng.pdb
+C:\cs2010\ch08\cal-eng\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\cal-eng\obj\x86\Debug\cal-eng.exe
+C:\cs2010\ch08\cal-eng\obj\x86\Debug\cal-eng.pdb

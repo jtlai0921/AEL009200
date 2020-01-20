@@ -1,0 +1,12 @@
+C:\cs2010\ch15\DBAp2\bin\Debug\ch15DB.mdf
+C:\cs2010\ch15\DBAp2\bin\Debug\ch15DB_log.ldf
+C:\cs2010\ch15\DBAp2\bin\Debug\DBAp2.exe.config
+C:\cs2010\ch15\DBAp2\bin\Debug\DBAp2.exe
+C:\cs2010\ch15\DBAp2\bin\Debug\DBAp2.pdb
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\DBAp2.Form1.resources
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\DBAp2.Properties.Resources.resources
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\DBAp2.exe
+C:\cs2010\ch15\DBAp2\obj\x86\Debug\DBAp2.pdb

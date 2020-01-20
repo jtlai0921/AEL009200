@@ -1,0 +1,5 @@
+C:\cs2010\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.exe
+C:\cs2010\ch06\PropertyEmulationUsingFunction\bin\Debug\PropertyEmulationUsingFunction.pdb
+C:\cs2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.exe
+C:\cs2010\ch06\PropertyEmulationUsingFunction\obj\x86\Debug\PropertyEmulationUsingFunction.pdb

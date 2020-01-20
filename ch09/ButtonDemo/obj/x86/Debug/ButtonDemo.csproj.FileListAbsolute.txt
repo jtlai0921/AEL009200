@@ -1,0 +1,9 @@
+C:\cs2010\ch09\ButtonDemo\bin\Debug\ButtonDemo.exe
+C:\cs2010\ch09\ButtonDemo\bin\Debug\ButtonDemo.pdb
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.Form1.resources
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.Properties.Resources.resources
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.exe
+C:\cs2010\ch09\ButtonDemo\obj\x86\Debug\ButtonDemo.pdb

@@ -1,0 +1,9 @@
+C:\cs2010\ch14\FontColorDialogDemo\bin\Debug\FontColorDialogDemo.exe
+C:\cs2010\ch14\FontColorDialogDemo\bin\Debug\FontColorDialogDemo.pdb
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\FontColorDialogDemo.Form1.resources
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\FontColorDialogDemo.Properties.Resources.resources
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\FontColorDialogDemo.exe
+C:\cs2010\ch14\FontColorDialogDemo\obj\x86\Debug\FontColorDialogDemo.pdb

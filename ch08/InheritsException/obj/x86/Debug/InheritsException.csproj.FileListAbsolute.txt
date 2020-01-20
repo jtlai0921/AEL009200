@@ -1,0 +1,5 @@
+C:\cs2010\ch08\InheritsException\bin\Debug\InheritsException.exe
+C:\cs2010\ch08\InheritsException\bin\Debug\InheritsException.pdb
+C:\cs2010\ch08\InheritsException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch08\InheritsException\obj\x86\Debug\InheritsException.exe
+C:\cs2010\ch08\InheritsException\obj\x86\Debug\InheritsException.pdb

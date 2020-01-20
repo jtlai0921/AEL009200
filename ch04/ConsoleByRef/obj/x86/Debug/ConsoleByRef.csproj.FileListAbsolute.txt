@@ -1,0 +1,5 @@
+C:\cs2010\ch04\ConsoleByRef\bin\Debug\ConsoleByRef.exe
+C:\cs2010\ch04\ConsoleByRef\bin\Debug\ConsoleByRef.pdb
+C:\cs2010\ch04\ConsoleByRef\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\ConsoleByRef\obj\x86\Debug\ConsoleByRef.exe
+C:\cs2010\ch04\ConsoleByRef\obj\x86\Debug\ConsoleByRef.pdb

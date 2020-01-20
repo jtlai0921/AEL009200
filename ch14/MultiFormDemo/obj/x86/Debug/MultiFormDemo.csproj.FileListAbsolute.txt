@@ -1,0 +1,10 @@
+C:\cs2010\ch14\MultiFormDemo\bin\Debug\MultiFormDemo.exe
+C:\cs2010\ch14\MultiFormDemo\bin\Debug\MultiFormDemo.pdb
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\MultiFormDemo.frmCal.resources
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\MultiFormDemo.Properties.Resources.resources
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\MultiFormDemo.exe
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\MultiFormDemo.pdb
+C:\cs2010\ch14\MultiFormDemo\obj\x86\Debug\MultiFormDemo.frmMain.resources

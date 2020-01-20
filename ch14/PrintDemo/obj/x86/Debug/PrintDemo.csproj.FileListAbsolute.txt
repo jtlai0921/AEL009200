@@ -1,0 +1,9 @@
+C:\cs2010\ch14\PrintDemo\bin\Debug\PrintDemo.exe
+C:\cs2010\ch14\PrintDemo\bin\Debug\PrintDemo.pdb
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\PrintDemo.Form1.resources
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\PrintDemo.Properties.Resources.resources
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\PrintDemo.exe
+C:\cs2010\ch14\PrintDemo\obj\x86\Debug\PrintDemo.pdb

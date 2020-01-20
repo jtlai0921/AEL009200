@@ -1,0 +1,9 @@
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\CheckedListBoxDemo.Form1.resources
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\CheckedListBoxDemo.Properties.Resources.resources
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch10\CheckedListBoxDemo\bin\Debug\CheckedListBoxDemo.exe
+C:\cs2010\ch10\CheckedListBoxDemo\bin\Debug\CheckedListBoxDemo.pdb
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\CheckedListBoxDemo.exe
+C:\cs2010\ch10\CheckedListBoxDemo\obj\x86\Debug\CheckedListBoxDemo.pdb

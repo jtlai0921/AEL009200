@@ -1,0 +1,5 @@
+C:\cs2010\ch07\WinAp\bin\Debug\WinAp.exe
+C:\cs2010\ch07\WinAp\bin\Debug\WinAp.pdb
+C:\cs2010\ch07\WinAp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch07\WinAp\obj\x86\Debug\WinAp.exe
+C:\cs2010\ch07\WinAp\obj\x86\Debug\WinAp.pdb

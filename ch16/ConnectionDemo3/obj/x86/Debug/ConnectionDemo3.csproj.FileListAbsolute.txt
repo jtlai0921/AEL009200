@@ -1,0 +1,11 @@
+C:\cs2010\ch16\ConnectionDemo3\bin\Debug\ConnectionDemo3.exe.config
+C:\cs2010\ch16\ConnectionDemo3\bin\Debug\ConnectionDemo3.exe
+C:\cs2010\ch16\ConnectionDemo3\bin\Debug\ConnectionDemo3.pdb
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ConnectionDemo3.Form1.resources
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ConnectionDemo3.Properties.Resources.resources
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ConnectionDemo3.exe
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ConnectionDemo3.pdb
+C:\cs2010\ch16\ConnectionDemo3\obj\x86\Debug\ConnectionDemo3.Form2.resources

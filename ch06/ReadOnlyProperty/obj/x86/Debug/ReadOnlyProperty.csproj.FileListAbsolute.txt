@@ -1,0 +1,5 @@
+C:\cs2010\ch06\ReadOnlyProperty\bin\Debug\ReadOnlyProperty.exe
+C:\cs2010\ch06\ReadOnlyProperty\bin\Debug\ReadOnlyProperty.pdb
+C:\cs2010\ch06\ReadOnlyProperty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\ReadOnlyProperty\obj\x86\Debug\ReadOnlyProperty.exe
+C:\cs2010\ch06\ReadOnlyProperty\obj\x86\Debug\ReadOnlyProperty.pdb

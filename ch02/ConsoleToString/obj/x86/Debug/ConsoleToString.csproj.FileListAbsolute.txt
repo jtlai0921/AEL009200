@@ -1,0 +1,5 @@
+C:\cs2010\ch02\ConsoleToString\bin\Debug\ConsoleToString.exe
+C:\cs2010\ch02\ConsoleToString\bin\Debug\ConsoleToString.pdb
+C:\cs2010\ch02\ConsoleToString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\ConsoleToString\obj\x86\Debug\ConsoleToString.exe
+C:\cs2010\ch02\ConsoleToString\obj\x86\Debug\ConsoleToString.pdb

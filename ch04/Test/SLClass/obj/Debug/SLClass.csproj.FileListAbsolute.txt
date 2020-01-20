@@ -1,0 +1,7 @@
+C:\cs2010\ch04\Test\SLClass\Bin\Debug\SLClass.dll
+C:\cs2010\ch04\Test\SLClass\Bin\Debug\SLClass.pdb
+C:\cs2010\ch04\Test\SLClass\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\Test\SLClass\obj\Debug\SilverlightControl1.g.cs
+C:\cs2010\ch04\Test\SLClass\obj\Debug\SLClass.g.resources
+C:\cs2010\ch04\Test\SLClass\obj\Debug\SLClass.dll
+C:\cs2010\ch04\Test\SLClass\obj\Debug\SLClass.pdb

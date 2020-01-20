@@ -1,0 +1,5 @@
+C:\cs2010\ch07\staticMembers\bin\Debug\staticMembers.exe
+C:\cs2010\ch07\staticMembers\bin\Debug\staticMembers.pdb
+C:\cs2010\ch07\staticMembers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch07\staticMembers\obj\x86\Debug\staticMembers.exe
+C:\cs2010\ch07\staticMembers\obj\x86\Debug\staticMembers.pdb

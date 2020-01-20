@@ -1,0 +1,11 @@
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.Form1.resources
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.Properties.Resources.resources
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch13\MouseEventDemo\bin\Debug\MouseEventDemo.exe
+C:\cs2010\ch13\MouseEventDemo\bin\Debug\MouseEventDemo.pdb
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.exe
+C:\cs2010\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch13\MouseEventDemo\obj\x86\Debug\MouseEventDemo.pdb

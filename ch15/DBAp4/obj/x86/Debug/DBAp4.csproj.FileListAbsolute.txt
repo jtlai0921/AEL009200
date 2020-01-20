@@ -1,0 +1,12 @@
+C:\cs2010\ch15\DBAp4\bin\Debug\DBAp4.exe.config
+C:\cs2010\ch15\DBAp4\bin\Debug\MyDB.mdf
+C:\cs2010\ch15\DBAp4\bin\Debug\MyDB_log.ldf
+C:\cs2010\ch15\DBAp4\bin\Debug\DBAp4.exe
+C:\cs2010\ch15\DBAp4\bin\Debug\DBAp4.pdb
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\DBAp4.Form1.resources
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\DBAp4.Properties.Resources.resources
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\DBAp4.exe
+C:\cs2010\ch15\DBAp4\obj\x86\Debug\DBAp4.pdb

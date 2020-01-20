@@ -1,0 +1,9 @@
+C:\cs2010\ch09\TextBoxDemo\bin\Debug\TextBoxDemo.exe
+C:\cs2010\ch09\TextBoxDemo\bin\Debug\TextBoxDemo.pdb
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Form1.resources
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.Properties.Resources.resources
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.exe
+C:\cs2010\ch09\TextBoxDemo\obj\x86\Debug\TextBoxDemo.pdb

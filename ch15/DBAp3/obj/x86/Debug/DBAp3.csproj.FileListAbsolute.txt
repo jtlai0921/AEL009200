@@ -1,0 +1,12 @@
+C:\cs2010\ch15\DBAp3\bin\Debug\DBAp3.exe.config
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\DBAp3.Form1.resources
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\DBAp3.Properties.Resources.resources
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch15\DBAp3\bin\Debug\ch15DB.mdf
+C:\cs2010\ch15\DBAp3\bin\Debug\ch15DB_log.ldf
+C:\cs2010\ch15\DBAp3\bin\Debug\DBAp3.exe
+C:\cs2010\ch15\DBAp3\bin\Debug\DBAp3.pdb
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\DBAp3.exe
+C:\cs2010\ch15\DBAp3\obj\x86\Debug\DBAp3.pdb

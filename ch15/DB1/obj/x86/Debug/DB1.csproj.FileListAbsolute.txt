@@ -1,0 +1,10 @@
+C:\cs2010\ch15\DB1\bin\Debug\MyDB.mdf
+C:\cs2010\ch15\DB1\bin\Debug\MyDB_log.ldf
+C:\cs2010\ch15\DB1\bin\Debug\DB1.exe
+C:\cs2010\ch15\DB1\bin\Debug\DB1.pdb
+C:\cs2010\ch15\DB1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch15\DB1\obj\x86\Debug\DB1.Properties.Resources.resources
+C:\cs2010\ch15\DB1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch15\DB1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch15\DB1\obj\x86\Debug\DB1.exe
+C:\cs2010\ch15\DB1\obj\x86\Debug\DB1.pdb

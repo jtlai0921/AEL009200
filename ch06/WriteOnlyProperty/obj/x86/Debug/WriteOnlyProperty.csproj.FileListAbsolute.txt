@@ -1,0 +1,5 @@
+C:\cs2010\ch06\WriteOnlyProperty\bin\Debug\WriteOnlyProperty.exe
+C:\cs2010\ch06\WriteOnlyProperty\bin\Debug\WriteOnlyProperty.pdb
+C:\cs2010\ch06\WriteOnlyProperty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\WriteOnlyProperty\obj\x86\Debug\WriteOnlyProperty.exe
+C:\cs2010\ch06\WriteOnlyProperty\obj\x86\Debug\WriteOnlyProperty.pdb

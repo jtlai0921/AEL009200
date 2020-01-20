@@ -1,0 +1,5 @@
+C:\cs2010\ch02\Structure1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\Structure1\bin\Debug\Structure1.exe
+C:\cs2010\ch02\Structure1\bin\Debug\Structure1.pdb
+C:\cs2010\ch02\Structure1\obj\x86\Debug\Structure1.exe
+C:\cs2010\ch02\Structure1\obj\x86\Debug\Structure1.pdb

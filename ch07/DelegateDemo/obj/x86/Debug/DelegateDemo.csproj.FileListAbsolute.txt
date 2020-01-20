@@ -1,0 +1,5 @@
+C:\cs2010\ch07\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\cs2010\ch07\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\cs2010\ch07\DelegateDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch07\DelegateDemo\obj\x86\Debug\DelegateDemo.exe
+C:\cs2010\ch07\DelegateDemo\obj\x86\Debug\DelegateDemo.pdb

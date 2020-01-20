@@ -1,0 +1,5 @@
+C:\cs2010\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+C:\cs2010\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+C:\cs2010\ch04\ConsoleGetMax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.exe
+C:\cs2010\ch04\ConsoleGetMax\obj\x86\Debug\ConsoleGetMax.pdb

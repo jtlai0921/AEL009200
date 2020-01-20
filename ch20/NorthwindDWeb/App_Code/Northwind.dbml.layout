@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.375" name="Northwind">
+  <DataContextMoniker Name="/NorthwindDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7fc3b864-5d60-406c-ac20-88a7d222aa64" absoluteBounds="5.375, 3.625, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/NorthwindDataContext/供應商" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9c0226b-6beb-4f04-bb69-5486e50f6fe8" absoluteBounds="5.3900000000000006, 4.0850000000000009, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6eaecdc-0ad6-4aa2-9463-a4a1004458ae" absoluteBounds="3, 2.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/NorthwindDataContext/客戶" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c54ebbd1-0cc9-419d-b725-ee5fca0939cf" absoluteBounds="3.0150000000000006, 3.2100000000000009, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7ffc08b5-ccb7-4efb-9c4a-348ba7f9bf3a" absoluteBounds="0.5, 2.125, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/NorthwindDataContext/訂貨主檔" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3ea0737-a7c8-476c-9064-a267f1f297ef" absoluteBounds="0.51500000000000057, 2.5850000000000009, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71cd4a21-d149-42e3-ac5b-61b537525493" absoluteBounds="3, 0.5, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/NorthwindDataContext/訂貨明細" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2ae4f22-b966-40dc-8392-4fa9d46d94df" absoluteBounds="3.0149999999999997, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11b55ec2-a574-4b31-b6ca-2637f2229022" absoluteBounds="0.5, 6, 2, 4.0785139973958309">
+      <DataClassMoniker Name="/NorthwindDataContext/員工" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a012d24-3557-480e-acce-e2585fef5e27" absoluteBounds="0.51500000000000012, 6.4600000000000009, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="175c3246-99ed-45d5-acea-df6aa36b11b0" absoluteBounds="5.375, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/NorthwindDataContext/產品資料" />
+      <nestedChildShapes>
+        <elementListCompartment Id="104fd059-cdb0-423e-90db-87a1203efd7d" absoluteBounds="5.3900000000000006, 0.96000000000000085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c865b727-9cf2-49a1-900e-64bd92d20c0b" absoluteBounds="7.75, 0.5, 1.625, 1.5785953776041666">
+      <DataClassMoniker Name="/NorthwindDataContext/產品類別" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec0a83a1-20a9-4ff4-9c2d-e7cd9e4f01c6" absoluteBounds="7.765, 0.96, 1.5950000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="816d23f6-aa27-46ac-a923-afc0cb88c221" absoluteBounds="0.5, 0.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/NorthwindDataContext/貨運公司" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9327d7a2-a13b-4248-aaa3-530ce6056e6d" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 4.18830485026042); (2.5 : 4.18830485026042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/客戶/客戶_訂貨主檔" />
+      <nodes>
+        <classShapeMoniker Id="e6eaecdc-0ad6-4aa2-9463-a4a1004458ae" />
+        <classShapeMoniker Id="7ffc08b5-ccb7-4efb-9c4a-348ba7f9bf3a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.031252 : 2.125); (2.031252 : 2.00212); (2.87712 : 2.00212); (2.87712 : 1.38544840494792); (3 : 1.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/訂貨主檔/訂貨主檔_訂貨明細" />
+      <nodes>
+        <classShapeMoniker Id="7ffc08b5-ccb7-4efb-9c4a-348ba7f9bf3a" />
+        <classShapeMoniker Id="71cd4a21-d149-42e3-ac5b-61b537525493" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 6); (1.5 : 5.62660970052083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/員工/員工_訂貨主檔" />
+      <nodes>
+        <classShapeMoniker Id="11b55ec2-a574-4b31-b6ca-2637f2229022" />
+        <classShapeMoniker Id="7ffc08b5-ccb7-4efb-9c4a-348ba7f9bf3a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.375 : 1.38544840494792); (5 : 1.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/產品資料/產品資料_訂貨明細" />
+      <nodes>
+        <classShapeMoniker Id="175c3246-99ed-45d5-acea-df6aa36b11b0" />
+        <classShapeMoniker Id="71cd4a21-d149-42e3-ac5b-61b537525493" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.375 : 3.625); (6.375 : 3.23240397135417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/供應商/供應商_產品資料" />
+      <nodes>
+        <classShapeMoniker Id="7fc3b864-5d60-406c-ac20-88a7d222aa64" />
+        <classShapeMoniker Id="175c3246-99ed-45d5-acea-df6aa36b11b0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.75 : 1.28929768880208); (7.375 : 1.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/產品類別/產品類別_產品資料" />
+      <nodes>
+        <classShapeMoniker Id="c865b727-9cf2-49a1-900e-64bd92d20c0b" />
+        <classShapeMoniker Id="175c3246-99ed-45d5-acea-df6aa36b11b0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.5 : 1.8862939453125); (1.5 : 2.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorthwindDataContext/貨運公司/貨運公司_訂貨主檔" />
+      <nodes>
+        <classShapeMoniker Id="816d23f6-aa27-46ac-a923-afc0cb88c221" />
+        <classShapeMoniker Id="7ffc08b5-ccb7-4efb-9c4a-348ba7f9bf3a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

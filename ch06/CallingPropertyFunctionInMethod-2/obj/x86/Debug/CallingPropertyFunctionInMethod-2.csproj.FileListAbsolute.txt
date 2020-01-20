@@ -1,0 +1,5 @@
+C:\cs2010\ch06\CallingPropertyFunctionInMethod-2\bin\Debug\CallingPropertyFunctionInMethod-2.exe
+C:\cs2010\ch06\CallingPropertyFunctionInMethod-2\bin\Debug\CallingPropertyFunctionInMethod-2.pdb
+C:\cs2010\ch06\CallingPropertyFunctionInMethod-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\CallingPropertyFunctionInMethod-2\obj\x86\Debug\CallingPropertyFunctionInMethod-2.exe
+C:\cs2010\ch06\CallingPropertyFunctionInMethod-2\obj\x86\Debug\CallingPropertyFunctionInMethod-2.pdb

@@ -1,0 +1,5 @@
+C:\cs2010\ch06\SubNamespace\bin\Debug\SubNamespace.exe
+C:\cs2010\ch06\SubNamespace\bin\Debug\SubNamespace.pdb
+C:\cs2010\ch06\SubNamespace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\SubNamespace\obj\x86\Debug\SubNamespace.exe
+C:\cs2010\ch06\SubNamespace\obj\x86\Debug\SubNamespace.pdb

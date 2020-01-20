@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Northwind" Class="NorthwindDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Northwind.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NorthwindConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.供應商" Member="供應商">
+    <Type Name="供應商">
+      <Column Name="供應商編號" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="供應商" Member="供應商1" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="連絡人" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="連絡人職稱" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="地址" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="城市" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="行政區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="郵遞區號" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="國家地區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="電話" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Column Name="傳真電話" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Column Name="首頁" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="供應商_產品資料" Member="產品資料" ThisKey="供應商編號" OtherKey="供應商編號" Type="產品資料" />
+    </Type>
+  </Table>
+  <Table Name="dbo.客戶" Member="客戶">
+    <Type Name="客戶">
+      <Column Name="客戶編號" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="公司名稱" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="連絡人" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="連絡人職稱" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="地址" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="城市" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="行政區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="郵遞區號" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="國家地區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="電話" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Column Name="傳真電話" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Association Name="客戶_訂貨主檔" Member="訂貨主檔" ThisKey="客戶編號" OtherKey="客戶編號" Type="訂貨主檔" />
+    </Type>
+  </Table>
+  <Table Name="dbo.訂貨主檔" Member="訂貨主檔">
+    <Type Name="訂貨主檔">
+      <Column Name="訂單號碼" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="客戶編號" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="員工編號" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="訂單日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="要貨日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="送貨日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="送貨方式" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="運費" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="收貨人" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="送貨地址" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="送貨城市" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="送貨行政區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="送貨郵遞區號" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="送貨國家地區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Association Name="訂貨主檔_訂貨明細" Member="訂貨明細" ThisKey="訂單號碼" OtherKey="訂單號碼" Type="訂貨明細" />
+      <Association Name="客戶_訂貨主檔" Member="客戶" ThisKey="客戶編號" OtherKey="客戶編號" Type="客戶" IsForeignKey="true" />
+      <Association Name="員工_訂貨主檔" Member="員工" ThisKey="員工編號" OtherKey="員工編號" Type="員工" IsForeignKey="true" />
+      <Association Name="貨運公司_訂貨主檔" Member="貨運公司" ThisKey="送貨方式" OtherKey="貨運公司編號" Type="貨運公司" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.訂貨明細" Member="訂貨明細">
+    <Type Name="訂貨明細">
+      <Column Name="訂單號碼" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="產品編號" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="單價" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="數量" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="折扣" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Association Name="訂貨主檔_訂貨明細" Member="訂貨主檔" ThisKey="訂單號碼" OtherKey="訂單號碼" Type="訂貨主檔" IsForeignKey="true" />
+      <Association Name="產品資料_訂貨明細" Member="產品資料" ThisKey="產品編號" OtherKey="產品編號" Type="產品資料" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.員工" Member="員工">
+    <Type Name="員工">
+      <Column Name="員工編號" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="姓名" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="名" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="職稱" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="稱呼" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="出生日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="雇用日期" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="地址" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="城市" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="行政區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="區域號碼" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="國家地區" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="電話號碼" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Column Name="內部分機號碼" Type="System.String" DbType="NVarChar(4)" CanBeNull="true" />
+      <Column Name="相片" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="附註" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="主管" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="員工_訂貨主檔" Member="訂貨主檔" ThisKey="員工編號" OtherKey="員工編號" Type="訂貨主檔" />
+    </Type>
+  </Table>
+  <Table Name="dbo.產品資料" Member="產品資料">
+    <Type Name="產品資料">
+      <Column Name="產品編號" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="產品" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="供應商編號" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="類別編號" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="單位數量" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="單價" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="庫存量" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="已訂購量" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="安全存量" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="不再銷售" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="產品資料_訂貨明細" Member="訂貨明細" ThisKey="產品編號" OtherKey="產品編號" Type="訂貨明細" />
+      <Association Name="供應商_產品資料" Member="供應商" ThisKey="供應商編號" OtherKey="供應商編號" Type="供應商" IsForeignKey="true" />
+      <Association Name="產品類別_產品資料" Member="產品類別" ThisKey="類別編號" OtherKey="類別編號" Type="產品類別" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.產品類別" Member="產品類別">
+    <Type Name="產品類別">
+      <Column Name="類別編號" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="類別名稱" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="說明" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="圖片" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="產品類別_產品資料" Member="產品資料" ThisKey="類別編號" OtherKey="類別編號" Type="產品資料" />
+    </Type>
+  </Table>
+  <Table Name="dbo.貨運公司" Member="貨運公司">
+    <Type Name="貨運公司">
+      <Column Name="貨運公司編號" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="貨運公司名稱" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="電話" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+      <Association Name="貨運公司_訂貨主檔" Member="訂貨主檔" ThisKey="貨運公司編號" OtherKey="送貨方式" Type="訂貨主檔" />
+    </Type>
+  </Table>
+</Database>

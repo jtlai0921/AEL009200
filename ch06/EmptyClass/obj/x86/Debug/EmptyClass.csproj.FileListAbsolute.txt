@@ -1,0 +1,5 @@
+C:\cs2010\ch06\EmptyClass\bin\Debug\EmptyClass.exe
+C:\cs2010\ch06\EmptyClass\bin\Debug\EmptyClass.pdb
+C:\cs2010\ch06\EmptyClass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\EmptyClass\obj\x86\Debug\EmptyClass.exe
+C:\cs2010\ch06\EmptyClass\obj\x86\Debug\EmptyClass.pdb

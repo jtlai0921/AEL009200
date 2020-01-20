@@ -1,0 +1,12 @@
+C:\cs2010\ch19\Linq_to_SQL_EditDB\bin\Debug\ch19DB.mdf
+C:\cs2010\ch19\Linq_to_SQL_EditDB\bin\Debug\ch19DB_log.ldf
+C:\cs2010\ch19\Linq_to_SQL_EditDB\bin\Debug\Linq_to_SQL_EditDB.exe.config
+C:\cs2010\ch19\Linq_to_SQL_EditDB\bin\Debug\Linq_to_SQL_EditDB.exe
+C:\cs2010\ch19\Linq_to_SQL_EditDB\bin\Debug\Linq_to_SQL_EditDB.pdb
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\Linq_to_SQL_EditDB.Form1.resources
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\Linq_to_SQL_EditDB.Properties.Resources.resources
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\Linq_to_SQL_EditDB.exe
+C:\cs2010\ch19\Linq_to_SQL_EditDB\obj\x86\Debug\Linq_to_SQL_EditDB.pdb

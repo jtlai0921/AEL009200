@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="SLClass.SilverlightControl1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="174" d:DesignWidth="226">
+    
+    <Grid x:Name="LayoutRoot" Background="#31FF9BFF" DataContext="{Binding}">
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="58,64,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</UserControl>

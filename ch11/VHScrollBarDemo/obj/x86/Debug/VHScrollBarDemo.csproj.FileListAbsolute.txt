@@ -1,0 +1,9 @@
+C:\cs2010\ch11\VHScrollBarDemo\bin\Debug\VHScrollBarDemo.exe
+C:\cs2010\ch11\VHScrollBarDemo\bin\Debug\VHScrollBarDemo.pdb
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\VHScrollBarDemo.Form1.resources
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\VHScrollBarDemo.Properties.Resources.resources
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\VHScrollBarDemo.exe
+C:\cs2010\ch11\VHScrollBarDemo\obj\x86\Debug\VHScrollBarDemo.pdb

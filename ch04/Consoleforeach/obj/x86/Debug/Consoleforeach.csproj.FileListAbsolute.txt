@@ -1,0 +1,5 @@
+C:\cs2010\ch04\Consoleforeach\bin\Debug\Consoleforeach.exe
+C:\cs2010\ch04\Consoleforeach\bin\Debug\Consoleforeach.pdb
+C:\cs2010\ch04\Consoleforeach\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\Consoleforeach\obj\x86\Debug\Consoleforeach.exe
+C:\cs2010\ch04\Consoleforeach\obj\x86\Debug\Consoleforeach.pdb

@@ -1,0 +1,5 @@
+C:\cs2010\ch03\Consoledowhile\bin\Debug\Consoledowhile.exe
+C:\cs2010\ch03\Consoledowhile\bin\Debug\Consoledowhile.pdb
+C:\cs2010\ch03\Consoledowhile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch03\Consoledowhile\obj\x86\Debug\Consoledowhile.exe
+C:\cs2010\ch03\Consoledowhile\obj\x86\Debug\Consoledowhile.pdb

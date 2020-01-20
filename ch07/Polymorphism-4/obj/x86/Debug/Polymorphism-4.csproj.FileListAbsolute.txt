@@ -1,0 +1,9 @@
+C:\cs2010\ch07\Polymorphism-4\bin\Debug\Polymorphism-4.exe
+C:\cs2010\ch07\Polymorphism-4\bin\Debug\Polymorphism-4.pdb
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\Polymorphism_4.Properties.Resources.resources
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\Polymorphism-4.exe
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\Polymorphism-4.pdb
+C:\cs2010\ch07\Polymorphism-4\obj\x86\Debug\Polymorphism_4.Form1.resources

@@ -1,0 +1,18 @@
+C:\cs2010\ch11\NumericUpDownDemo\bin\Debug\NumericUpDownDemo.exe
+C:\cs2010\ch11\NumericUpDownDemo\bin\Debug\NumericUpDownDemo.pdb
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.Form1.resources
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.Properties.Resources.resources
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.exe
+C:\cs2010\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\bin\Debug\NumericUpDownDemo.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\bin\Debug\NumericUpDownDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.Form1.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\NumericUpDownDemo.Properties.Resources.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch11\NumericUpDownDemo\obj\x86\Debug\GenerateResource.write.1.tlog

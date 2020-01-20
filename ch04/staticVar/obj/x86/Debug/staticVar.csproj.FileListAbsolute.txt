@@ -1,0 +1,5 @@
+C:\cs2010\ch04\staticVar\bin\Debug\staticVar.exe
+C:\cs2010\ch04\staticVar\bin\Debug\staticVar.pdb
+C:\cs2010\ch04\staticVar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch04\staticVar\obj\x86\Debug\staticVar.exe
+C:\cs2010\ch04\staticVar\obj\x86\Debug\staticVar.pdb

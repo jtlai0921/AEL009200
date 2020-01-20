@@ -1,0 +1,5 @@
+C:\cs2010\ch03\ConsolePwd\bin\Debug\ConsolePwd.exe
+C:\cs2010\ch03\ConsolePwd\bin\Debug\ConsolePwd.pdb
+C:\cs2010\ch03\ConsolePwd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch03\ConsolePwd\obj\x86\Debug\ConsolePwd.exe
+C:\cs2010\ch03\ConsolePwd\obj\x86\Debug\ConsolePwd.pdb

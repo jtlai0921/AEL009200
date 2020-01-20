@@ -1,0 +1,5 @@
+C:\cs2010\ch06\Constructor-Destructor-2\bin\Debug\Constructor-Destructor-2.exe
+C:\cs2010\ch06\Constructor-Destructor-2\bin\Debug\Constructor-Destructor-2.pdb
+C:\cs2010\ch06\Constructor-Destructor-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\Constructor-Destructor-2\obj\x86\Debug\Constructor-Destructor-2.exe
+C:\cs2010\ch06\Constructor-Destructor-2\obj\x86\Debug\Constructor-Destructor-2.pdb

@@ -1,0 +1,18 @@
+C:\cs2010\ch10\TabControlDemo\bin\Debug\TabControlDemo.exe
+C:\cs2010\ch10\TabControlDemo\bin\Debug\TabControlDemo.pdb
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.Form1.resources
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.Properties.Resources.resources
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.exe
+C:\cs2010\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\bin\Debug\TabControlDemo.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\bin\Debug\TabControlDemo.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.Form1.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\TabControlDemo.Properties.Resources.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch10\TabControlDemo\obj\x86\Debug\GenerateResource.write.1.tlog

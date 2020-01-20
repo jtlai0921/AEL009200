@@ -1,0 +1,5 @@
+C:\cs2010\ch02\Shift\bin\Debug\Shift.exe
+C:\cs2010\ch02\Shift\bin\Debug\Shift.pdb
+C:\cs2010\ch02\Shift\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch02\Shift\obj\x86\Debug\Shift.exe
+C:\cs2010\ch02\Shift\obj\x86\Debug\Shift.pdb

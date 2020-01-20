@@ -1,0 +1,5 @@
+C:\cs2010\ch06\PropertyVariables\bin\Debug\PropertyVariables.exe
+C:\cs2010\ch06\PropertyVariables\bin\Debug\PropertyVariables.pdb
+C:\cs2010\ch06\PropertyVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.exe
+C:\cs2010\ch06\PropertyVariables\obj\x86\Debug\PropertyVariables.pdb

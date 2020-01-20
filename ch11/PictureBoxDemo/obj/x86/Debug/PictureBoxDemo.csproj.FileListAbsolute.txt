@@ -1,0 +1,9 @@
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\PictureBoxDemo.Form1.resources
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\PictureBoxDemo.Properties.Resources.resources
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch11\PictureBoxDemo\bin\Debug\PictureBoxDemo.exe
+C:\cs2010\ch11\PictureBoxDemo\bin\Debug\PictureBoxDemo.pdb
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\PictureBoxDemo.exe
+C:\cs2010\ch11\PictureBoxDemo\obj\x86\Debug\PictureBoxDemo.pdb

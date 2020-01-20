@@ -1,0 +1,5 @@
+C:\cs2010\ch06\Namespace\bin\Debug\Namespace.exe
+C:\cs2010\ch06\Namespace\bin\Debug\Namespace.pdb
+C:\cs2010\ch06\Namespace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch06\Namespace\obj\x86\Debug\Namespace.exe
+C:\cs2010\ch06\Namespace\obj\x86\Debug\Namespace.pdb

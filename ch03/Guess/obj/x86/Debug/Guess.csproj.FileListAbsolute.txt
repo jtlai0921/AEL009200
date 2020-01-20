@@ -1,0 +1,5 @@
+C:\cs2010\ch03\Guess\bin\Debug\Guess.exe
+C:\cs2010\ch03\Guess\bin\Debug\Guess.pdb
+C:\cs2010\ch03\Guess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch03\Guess\obj\x86\Debug\Guess.exe
+C:\cs2010\ch03\Guess\obj\x86\Debug\Guess.pdb

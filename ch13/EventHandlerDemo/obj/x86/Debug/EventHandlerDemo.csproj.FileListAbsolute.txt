@@ -1,0 +1,9 @@
+C:\cs2010\ch13\EventHandlerDemo\bin\Debug\EventHandlerDemo.exe
+C:\cs2010\ch13\EventHandlerDemo\bin\Debug\EventHandlerDemo.pdb
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\EventHandlerDemo.Form1.resources
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\EventHandlerDemo.Properties.Resources.resources
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\EventHandlerDemo.exe
+C:\cs2010\ch13\EventHandlerDemo\obj\x86\Debug\EventHandlerDemo.pdb

@@ -1,0 +1,5 @@
+C:\cs2010\ch03\breakcontinue\bin\Debug\breakcontinue.exe
+C:\cs2010\ch03\breakcontinue\bin\Debug\breakcontinue.pdb
+C:\cs2010\ch03\breakcontinue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch03\breakcontinue\obj\x86\Debug\breakcontinue.exe
+C:\cs2010\ch03\breakcontinue\obj\x86\Debug\breakcontinue.pdb
